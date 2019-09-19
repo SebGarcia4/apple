@@ -1,0 +1,44 @@
+body {
+  background: #cabfb6;
+  background-size: cover;
+  font-family: "Open Sans", sans-serif;
+}
+
+.main {
+  background-color: white;
+  width: 600px;
+  margin: auto;
+  padding: 60px 100px;
+}
+
+img {
+  margin: 10px 10px;
+}
+
+a {
+  background-color: #c9793b;
+  text-decoration: none;
+  padding: 10px 25px;
+  border-radius: 5px;
+  color: black;
+  margin: 200px;
+}
+
+.firstTxt {
+  font-size: 15.5px;
+}
+
+.AppleBtn, .AndroidBtn {
+  font-size: 20px;
+  border-radius: 5px;
+}
+
+.AppleBtn {
+  background-color: #b6bcca;
+  padding: 5px 30px;
+}
+
+.AndroidBtn {
+  background-color: #a4c93b;
+  padding: 5px 30px;
+}
